@@ -11,3 +11,7 @@
     ## 4. run : - composer install - : to download folder vendor.
     ## 5. run : php artisan migrate : create migration table.
     ## 6: run : npm run dev
+
+## All Packages
+  ## laravel yoeunes toastr : Link : https://github.com/yoeunes/toastr
+  
